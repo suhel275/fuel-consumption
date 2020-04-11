@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://suhel275:suhel1234567890@airportfuelinventory-zexot.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "suhel1234567890"
+}
